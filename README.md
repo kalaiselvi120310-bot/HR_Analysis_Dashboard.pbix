@@ -1,4 +1,7 @@
 This dataset provides detailed information about employees across different departments, demographics, job roles, and performance-related attributes
+
+-<a href ="https://github.com/kalaiselvi120310-bot/HR_Analysis_Dashboard.pbix/blob/main/HR_Dashboard.png">Dataset</a>
+
 1. Workforce Overview
 
 The dataset contains a total number of employees along with their demographic, job-related, and satisfaction-related details. It includes fields such as department, age band, gender, job role, education, monthly income, experience, and attrition status.
